@@ -219,5 +219,4 @@ public class UrlUriUtil {
 //		System.out.println("昆明**经开***一中*".matches("(.*)[\\*]{2,}(.*)"));
 //		System.out.println("昆明经开区第一中学".substring(0,"昆明经开区第一中学".length()));
 	}
-
 }
